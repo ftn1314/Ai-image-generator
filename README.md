@@ -1,1 +1,1 @@
-#[Live Demo](https://ai-image-generator-ftn.netlify.app)
+#Live Demo(https://ai-image-generator-ftn.netlify.app)
